@@ -66,7 +66,8 @@ function BOMBA(tweet) {
 var FractalStudies = '807999107365273600';
 var Odyfund_org = '960884349980893184';
 var GymRewards = '954770824501911552';
-var airpod_project = '936204840878866432'
+var EuropeanCryptoB = '938127831820881920';
+var airpod_project = '936204840878866432';
 var COTInetwork = '913327957904695297';
 var safehavenio = '929817868673437697';
 var WandXDapp = '879588404693827585';
@@ -82,10 +83,10 @@ var dbrain = '888326326284890113';
 //var doctailor = '944605766404763649';
 var familypoints = '957565773387616256';
 var iconic = '950095434952921090';
-var kora = '904533387729358854';
+//var kora = '904533387729358854';
 //var skychain = '935520196865019905';
 //var mossland = '948119493040943104';
-var stealthcrypto = '955280820058509312';
+//var stealthcrypto = '955280820058509312';
 //sotto vecchi
 var dubtokens = '900442763598192641';
 //var jointeamwell = '3731754254';
@@ -99,7 +100,6 @@ var Eventum = '956678839563931648';
 var DeHedge = '914254996182532096';
 var QuifasExchange = '960648946271039488';
 var truegameSRL = '927929016111325188';
-
 
 
 //parte la connessione con
